@@ -1,4 +1,4 @@
-#Projeto Academia Digital - DIO
+Projeto Academia Digital - DIO
 
 
 
